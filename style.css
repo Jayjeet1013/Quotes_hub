@@ -1,0 +1,29 @@
+*{
+        margin: 0%;
+        padding: 0%;
+}
+
+
+.contain{
+        display: flex;
+        flex-direction: column;
+        gap: 3rem;
+        align-items: center; /* Vertically center the content */
+        justify-content: center; /* Horizontally center the content */
+        text-align: center; /* Center text horizontally within its container */
+        margin-top: 13%;
+        
+}
+
+#contents{
+        width: 600px;
+        font-size: larger;
+}
+
+    
+
+.btn{
+        padding: 6px;
+        border-radius: 12px;
+        font-size: medium;
+}
